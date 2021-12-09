@@ -2,7 +2,7 @@ module SimpleInput
 
 go 1.17
 
-require github.com/qiuzhanghua/go-input v0.0.0-20211209021529-65a4a32e1654
+require github.com/qiuzhanghua/go-input v0.1.1
 
 require (
 	golang.org/x/crypto v0.0.0-20211202192323-5770296d904e // indirect

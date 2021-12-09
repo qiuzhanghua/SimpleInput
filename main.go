@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/tcnksm/go-input"
+	"github.com/qiuzhanghua/go-input"
 	"os"
 )
 
